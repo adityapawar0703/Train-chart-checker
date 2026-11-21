@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 
-const API_BASE = "/api";
+// const API_BASE = "/api";
+const API_BASE = "https://backend-eight-ivory-84.vercel.app/";
 
 /**
  * StatusBadge displays a styled indicator for the current monitoring lifecycle state.
